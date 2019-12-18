@@ -116,6 +116,14 @@
 				<key>Path</key>
 				<string>layout100.xml.zlib</string>
 			</dict>
+			<dict>
+				<key>Comment</key>
+				<string>Realtek ALC255 for Acer Aspire E15 (imasaru)</string>
+				<key>Id</key>
+				<integer>50</integer>
+				<key>Path</key>
+				<string>layout50.xml.zlib</string>
+			</dict>
 		</array>
 		<key>Platforms</key>
 		<array>
@@ -222,6 +230,14 @@
 				<integer>100</integer>
 				<key>Path</key>
 				<string>Platforms100.xml.zlib</string>
+			</dict>
+			<dict>
+				<key>Comment</key>
+				<string>Realtek ALC255 for Acer Aspire E15 (imasaru)</string>
+				<key>Id</key>
+				<integer>50</integer>
+				<key>Path</key>
+				<string>Platforms50.xml.zlib</string>
 			</dict>
 		</array>
 	</dict>
